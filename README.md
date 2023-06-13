@@ -3,7 +3,7 @@ convert csv to excel and filter columns and rows by config txt files
 
 This script can widely filter excel files or convert csv to excel and then filter it
 
-First of all script instantly deltes columns from excel listed in bad_columns.txt (replace data in this file to yours)
+First of all script instantly deletes columns from excel listed in bad_columns.txt (replace data in this file to yours)
 
 Then script filteres rows by custom configs.
 To do this you need to create txt file in the same folder as script and call it <column_name>.txt (replace <column_name> with uors column name).
